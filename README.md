@@ -1,2 +1,2 @@
-# BT_to_KT
-A socializing app for the college students who have joined the college in online mode.
+# ZIGGY
+Ziggy is a food delivery app in which the user can shcedule a meal from before.
